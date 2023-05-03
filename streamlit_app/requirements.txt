@@ -2,7 +2,6 @@ numpy==1.22.3
 pandas
 streamlit
 streamlit-drawable-canvas
-opencv-python
 opencv-python-headless
 tensorflow
 matplotlib
@@ -10,3 +9,4 @@ protobuf==3.20.1
 lxml
 scikit-learn
 python-doctr
+opencv-python
